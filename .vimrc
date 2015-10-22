@@ -10,10 +10,10 @@ set number
 "AUTO INDENT
 set autoindent
 
-noremap ' l
-noremap ; k
-noremap l j
-noremap k h
+noremap ; l
+noremap l k
+noremap k j
+noremap j h
 
 inoremap {      {}<Left>
 inoremap {<CR>  {<CR>}<Esc>O
